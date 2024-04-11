@@ -1,1 +1,1 @@
-# OOP_Project
+The above project can be described as an Object-Oriented Programming (OOP) prototype of a library management system in C++. It encompasses classes and functionalities designed for the management of books, readers, employees, and students. Each class contains methods for both setting and accessing specific information. The main() function is responsible for initializing and employing these objects to illustrate the system's functionality.

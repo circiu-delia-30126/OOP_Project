@@ -1,0 +1,67 @@
+﻿  Librărie.cpp
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,16): error C2011: 'Librărie': 'class' type redefinition
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Cititori.h(10,1): error C2504: 'Librărie': base class undefined
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(11,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(13,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(15,16): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(17,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(20,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(22,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(24,16): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(26,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(29,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(31,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(33,16): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(35,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(38,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(40,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(42,19): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(44,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(47,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(49,2): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(51,19): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(53,9): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(56,17): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.cpp(58,2): error C2065: 'cont': undeclared identifier
+  T3.IA.cpp
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,16): error C2011: 'Librărie': 'class' type redefinition
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Cititori.h(10,1): error C2504: 'Librărie': base class undefined
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Angajati.h(9,1): error C2504: 'Librărie': base class undefined
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Student.h(21,14): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(16,13): error C2079: 'Cartea1' uses undefined class 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(17,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(25,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(26,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(27,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(28,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(29,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(32,1): error C2027: use of undefined type 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Librărie.h(8,7): message : see declaration of 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(39,13): error C2079: 'Account2' uses undefined class 'Librărie'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(43,12): error C2039: 'ContProtejat': is not a member of 'Cititori'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Cititori.h(7,7): message : see declaration of 'Cititori'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(47,12): error C2039: 'ContProtejat': is not a member of 'Angajati'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Angajati.h(7,7): message : see declaration of 'Angajati'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\T3.IA.cpp(51,12): error C2039: 'ContProtejat': is not a member of 'Student'
+C:\Users\User\OneDrive\Desktop\IA\T3.IA\Student.h(8,7): message : see declaration of 'Student'
+  Generating Code...
